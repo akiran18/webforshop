@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/webforshop/static/css/main.a6db4648.css",
+    "main.js": "/webforshop/static/js/main.ac965a30.js",
+    "static/media/banner.png": "/webforshop/static/media/banner.cf9ec6b6219c62e3dc95.png",
+    "static/media/rightlogo.png": "/webforshop/static/media/rightlogo.3e2773eee91482e985b9.png",
+    "static/media/location.gif": "/webforshop/static/media/location.f67eacd2a6a2df2d8792.gif",
+    "static/media/phone.gif": "/webforshop/static/media/phone.ee85834bb6bbce8efcfa.gif",
+    "static/media/mail.gif": "/webforshop/static/media/mail.fe6c6e5987fb14128735.gif",
+    "static/media/testingeffect.png": "/webforshop/static/media/testingeffect.f0e83a775d234c8be4c7.png",
+    "static/media/chatbot.png": "/webforshop/static/media/chatbot.86392295f90e3bb23e50.png",
+    "static/media/fifth.png": "/webforshop/static/media/fifth.e5938a5c5df40cea9f31.png",
+    "static/media/slider2.avif": "/webforshop/static/media/slider2.7c769b46e8a80124cef7.avif",
+    "static/media/avtar.png": "/webforshop/static/media/avtar.769c19e141452f172eaf.png",
+    "static/media/slider1.avif": "/webforshop/static/media/slider1.8fbf82a63ad92d506630.avif",
+    "static/media/second.png": "/webforshop/static/media/second.77be7cf00e267f1abc77.png",
+    "static/media/third.png": "/webforshop/static/media/third.6bdae0c8ba397831edc1.png",
+    "static/media/bannerI1.webp": "/webforshop/static/media/bannerI1.7f1ecf7a7fc4cd610167.webp",
+    "static/media/teddy.webp": "/webforshop/static/media/teddy.37c2b0307612cc2178ae.webp",
+    "static/media/fourth.png": "/webforshop/static/media/fourth.0d83819a1e6bdad06ea7.png",
+    "static/media/heart.webp": "/webforshop/static/media/heart.92ddb050c68488d603c1.webp",
+    "static/media/oneMore.webp": "/webforshop/static/media/oneMore.f3dd0165ad691c106db6.webp",
+    "static/media/edit.png": "/webforshop/static/media/edit.ce07f290fd0a4c55a937.png",
+    "static/media/log.png": "/webforshop/static/media/log.58ab22652d47232e8bd2.png",
+    "static/media/img1off.avif": "/webforshop/static/media/img1off.ca457d3b5b68a85b21b4.avif",
+    "static/media/bfi3.webp": "/webforshop/static/media/bfi3.53e83dda5e222715a8de.webp",
+    "static/media/bfi1.webp": "/webforshop/static/media/bfi1.d75ab939330e7bc8790d.webp",
+    "static/media/bottom-4.webp": "/webforshop/static/media/bottom-4.97323374e277893bcc04.webp",
+    "static/media/bfi2.webp": "/webforshop/static/media/bfi2.f18dea72774f4e2d0b33.webp",
+    "static/media/bottom-3.webp": "/webforshop/static/media/bottom-3.62f046b82e62cea34c21.webp",
+    "static/media/bottom-1.webp": "/webforshop/static/media/bottom-1.db30ab493a71cde115ab.webp",
+    "static/media/bottom-2.webp": "/webforshop/static/media/bottom-2.7e2f0f40fa10e4a58035.webp",
+    "static/media/bfi4.webp": "/webforshop/static/media/bfi4.d7e9e978c7bb8bb8e68d.webp",
+    "index.html": "/webforshop/index.html",
+    "main.a6db4648.css.map": "/webforshop/static/css/main.a6db4648.css.map",
+    "main.ac965a30.js.map": "/webforshop/static/js/main.ac965a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6db4648.css",
+    "static/js/main.ac965a30.js"
+  ]
+}
